@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: survey
+  threads:
+    virtual:
+      enabled: true
